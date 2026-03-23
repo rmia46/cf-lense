@@ -1,7 +1,8 @@
-# cf-lense v1.1.0
+# cf-lense
 
 A modular CLI tool to filter and export Codeforces problems into multiple formats.
 
+**Verson:** 1.1.0
 **Author:** @rmia46 (Roman Mia)  
 **GitHub:** [https://github.com/rmia46/cf-lense](https://github.com/rmia46/cf-lense)
 
@@ -10,7 +11,6 @@ A modular CLI tool to filter and export Codeforces problems into multiple format
 - Exports to .txt, .md, and .html formats
 - Modern, colorful HTML design optimized for printing to PDF
 - Organized exports with incremental IDs (e.g., `03_23_0001_50`)
-- No random UUIDs; sequential tracking for easy management
 
 ## Quick Start (Binary)
 Download the latest pre-built binary for your system from the [Releases](https://github.com/rmia46/cf-lense/releases) page.
